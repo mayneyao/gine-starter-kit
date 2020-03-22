@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "workspaces": [
+    "app"
+  ],
+  "scripts": {
+    "start": "cd app & react-scripts start",
+    "build": "cd app & react-scripts build",
+    "test": "cd app & react-scripts test",
+    "eject": "cd app & react-scripts eject"
+  }
+}
